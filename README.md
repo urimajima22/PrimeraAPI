@@ -41,10 +41,6 @@ API_KEY=2RReAZCGt6ARy9RmZY13Quxbj5k4gEtByoBUsHRe
 
 python main.py
 
-Servidor disponible en:
-
-http://127.0.0.1:5000
-
 ---
 
 ## Endpoints

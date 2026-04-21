@@ -33,7 +33,7 @@ pip install flask requests python-dotenv
 
 Crear un archivo `.env` en la raíz del proyecto:
 
-API_KEY=2RReAZCGt6ARy9RmZY13Quxbj5k4gEtByoBUsHRe
+API_KEY
 
 ---
 
